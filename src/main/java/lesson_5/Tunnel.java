@@ -1,3 +1,5 @@
+package lesson_5;
+
 import java.util.concurrent.Semaphore;
 
 public class Tunnel extends Stage {
